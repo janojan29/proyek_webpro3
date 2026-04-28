@@ -1,0 +1,22 @@
+{
+    "name": "laravel-10-app",
+    "version": "1.0.0",
+    "description": "A complete Laravel 10 project",
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "devDependencies": {
+        "@tailwindcss/forms": "^0.5.3",
+        "autoprefixer": "^10.4.7",
+        "axios": "^1.1.2",
+        "laravel-vite-plugin": "^0.7.2",
+        "postcss": "^8.4.14",
+        "postcss-import": "^15.1.0",
+        "postcss-nesting": "^10.2.0",
+        "tailwindcss": "^3.1.0",
+        "vite": "^4.0.0"
+    }
+}
